@@ -1,2 +1,2 @@
-<title>Roy's Github Blog</title>
+title Roy's Github Blog
 # roysoft2333.github.io
